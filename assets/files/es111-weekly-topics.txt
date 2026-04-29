@@ -1,0 +1,15 @@
+ES111 Weekly Lecture Topics - Spring 2026
+
+Week 1: Introduction to probability, data, samples, populations, and uncertainty.
+Week 2: Counting techniques, conditional probability, independence, and Bayes' theorem.
+Week 3: Random variables, PMFs, PDFs, and CDFs.
+Week 4: Expectation, variance, moments, covariance, and correlation.
+Week 5: Discrete distributions.
+Week 6: Continuous distributions.
+Week 7: Sampling distributions, central limit theorem, and midterm preparation.
+Week 8: Point estimation and confidence intervals.
+Week 9: Hypothesis testing.
+Week 10: Two-sample inference and paired data.
+Week 11: Simple linear regression and correlation.
+Week 12: Goodness-of-fit tests and chi-square methods.
+Week 13: Integrated review and final examination preparation.

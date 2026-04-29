@@ -1,0 +1,18 @@
+ES111: Applied Probability and Statistics
+Semester: Spring 2026
+Instructor: Dr. Muhammad Tahir Naseem
+
+Textbook:
+Probability and Statistics for Engineers and Scientists, 9th edition,
+by Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, and Keying Ye.
+
+Course overview:
+This course introduces probability, random variables, probability distributions,
+sampling, estimation, hypothesis testing, regression, and statistical reasoning
+for science and engineering students.
+
+Assessment:
+Assignments: 10%
+Quizzes: 20%
+Midterm: 30%
+Final: 40%

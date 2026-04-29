@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract physics field</title>
+  <desc id="desc">Curving trajectories, nodes, and contour bands suggesting a quantum field simulation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2d2c"/>
+      <stop offset="0.55" stop-color="#144b46"/>
+      <stop offset="1" stop-color="#f2efe7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="35%" cy="30%" r="65%">
+      <stop offset="0" stop-color="#e8c872" stop-opacity=".85"/>
+      <stop offset=".42" stop-color="#0f766e" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#0f2d2c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bg)"/>
+  <rect width="900" height="900" fill="url(#glow)"/>
+  <g fill="none" stroke="#f8f4e8" stroke-opacity=".42">
+    <path d="M-30 256C158 120 291 132 454 244c179 123 286 111 483-34" stroke-width="3"/>
+    <path d="M-38 362C150 226 303 215 472 326c170 112 287 117 466-14" stroke-width="2"/>
+    <path d="M-28 468C160 336 295 325 464 436c177 116 296 124 470-10" stroke-width="2"/>
+    <path d="M-28 574C168 436 302 438 470 546c174 112 284 118 464-20" stroke-width="2"/>
+    <path d="M-22 680C160 548 306 545 476 654c172 110 292 110 460-18" stroke-width="3"/>
+  </g>
+  <g fill="none" stroke="#e5b84d" stroke-opacity=".72">
+    <path d="M168 716C210 426 358 244 612 136" stroke-width="4"/>
+    <path d="M254 808C288 520 432 328 706 224" stroke-width="2"/>
+    <path d="M92 612C172 414 280 272 456 90" stroke-width="2"/>
+  </g>
+  <g fill="#f8f4e8">
+    <circle cx="168" cy="716" r="9"/>
+    <circle cx="358" cy="244" r="7"/>
+    <circle cx="612" cy="136" r="11"/>
+    <circle cx="254" cy="808" r="6"/>
+    <circle cx="706" cy="224" r="8"/>
+    <circle cx="456" cy="90" r="6"/>
+    <circle cx="472" cy="546" r="10"/>
+    <circle cx="303" cy="215" r="7"/>
+  </g>
+  <g stroke="#f8f4e8" stroke-opacity=".2">
+    <path d="M80 80H820M80 180H820M80 280H820M80 380H820M80 480H820M80 580H820M80 680H820M80 780H820"/>
+    <path d="M80 80V820M180 80V820M280 80V820M380 80V820M480 80V820M580 80V820M680 80V820M780 80V820"/>
+  </g>
+</svg>
