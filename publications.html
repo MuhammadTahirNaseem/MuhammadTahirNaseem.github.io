@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Searchable publication list for Dr. Muhammad Tahir Naseem.">
+    <title>Publications | Dr. Muhammad Tahir Naseem</title>
+    <script src="assets/js/theme-init.js"></script>
+    <link rel="stylesheet" href="assets/css/styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header" data-site-header>
+      <nav class="nav container" aria-label="Primary navigation">
+        <a class="brand" href="index.html" aria-label="Home">
+          <span class="brand-mark" aria-hidden="true">MTN</span>
+          <span>
+            <strong>Dr. Muhammad Tahir Naseem</strong>
+            <small>Quantum Physics</small>
+          </span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-menu" data-nav-toggle>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span class="sr-only">Menu</span>
+        </button>
+        <div class="nav-menu" id="nav-menu" data-nav-menu>
+          <a href="index.html">Home</a>
+          <a href="research.html">Research</a>
+          <a href="publications.html">Publications</a>
+          <a href="teaching.html">Teaching</a>
+          <a href="students.html">Students</a>
+          <a href="projects.html">Projects</a>
+          <a href="cv.html">CV</a>
+          <a href="contact.html">Contact</a>
+        </div>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch color theme" title="Switch color theme">
+          <span data-theme-icon aria-hidden="true">Theme</span>
+          <span class="sr-only" data-theme-label>Switch color theme</span>
+        </button>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="page-hero">
+        <div class="container narrow">
+          <p class="eyebrow">Publications</p>
+          <h1>Selected publications and preprints.</h1>
+          <p class="lead">Search by title, author, or year; filter by research area; and view the list sorted by newest first. The publication data is stored in a plain JavaScript array for easy editing.</p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="publication-controls" aria-label="Publication search and filters">
+            <label class="field">
+              <span>Search</span>
+              <input type="search" placeholder="Search title, author, or year" data-publication-search>
+            </label>
+            <label class="field">
+              <span>Research Area</span>
+              <select data-publication-filter>
+                <option value="all">All research areas</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>Sort</span>
+              <select data-publication-sort>
+                <option value="newest">Newest first</option>
+                <option value="oldest">Oldest first</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="publication-summary" aria-live="polite">
+            <span data-publication-count>0 publications</span>
+          </div>
+
+          <div class="publication-card-list" data-publication-list></div>
+          <p class="empty-state" data-publication-empty hidden>No publications match the current search and filter.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <p>&copy; <span data-year></span> Dr. Muhammad Tahir Naseem.</p>
+        <div class="footer-links">
+          <a href="mailto:tahir.naseem@giki.edu.pk">Email</a>
+          <a href="research.html">Research</a>
+          <a href="teaching.html">Teaching</a>
+          <a href="cv.html">CV</a>
+          <a href="contact.html">Contact</a>
+        </div>
+      </div>
+    </footer>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/publications.js"></script>
+  </body>
+</html>
