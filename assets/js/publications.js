@@ -1,75 +1,174 @@
 const publications = [
   {
-    title: "Heat Transport in a Driven Open Quantum System",
-    authors: "Muhammad Tahir Naseem, A. Khan, and S. Mahmood",
-    journal: "Journal of Quantum Thermodynamics",
+    title: "Reservoir-engineered mechanical cat states with a driven qubit",
+    authors: "M. Tahir Naseem",
+    journal: "Phys. Rev. A 113, 013732",
     year: 2026,
-    doi: "https://doi.org/",
-    arxiv: "https://arxiv.org/",
+    doi: "https://journals.aps.org/pra/abstract/10.1103/dxzd-nqrv",
+    arxiv: "",
+    category: "Reservoir engineering and mechanical quantum states"
+  },
+  {
+    title: "Optimal strategies for transient and equilibrium quantum thermometry using Gaussian and non-Gaussian probes",
+    authors: "Asghar Ullah, M. Tahir Naseem, and Ozgur E. Mustecaplioglu",
+    journal: "Phys. Rev. A 112, 062601",
+    year: 2025,
+    doi: "https://journals.aps.org/pra/abstract/10.1103/62ks-19fs",
+    arxiv: "",
+    category: "Quantum thermometry and Fisher information"
+  },
+  {
+    title: "Quantum thermal rectification via state-dependent two-photon dissipation",
+    authors: "M. Tahir Naseem",
+    journal: "Quantum Sci. Technol. 11, 015011",
+    year: 2025,
+    doi: "https://iopscience.iop.org/article/10.1088/2058-9565/ae20b7/meta",
+    arxiv: "",
+    category: "Quantum thermal diodes and rectification"
+  },
+  {
+    title: "Signature of topology via heat transfer analysis in the Su-Schrieffer-Heeger (SSH) model",
+    authors: "Vipul Upadhyay, M. Tahir Naseem, Ozgur E. Mustecaplioglu, and Rahul Marathe",
+    journal: "New J. Phys. 26, 013014",
+    year: 2024,
+    doi: "https://iopscience.iop.org/article/10.1088/1367-2630/ad19aa/meta",
+    arxiv: "",
     category: "Quantum thermodynamics and heat transport"
   },
   {
-    title: "Floquet Control of Quantum Thermal Machines",
-    authors: "Muhammad Tahir Naseem and L. Ahmed",
-    journal: "Physical Review Applied",
-    year: 2025,
-    doi: "https://doi.org/",
-    arxiv: "https://arxiv.org/",
-    category: "Floquet quantum thermal devices"
-  },
-  {
-    title: "Thermal Rectification in Asymmetric Quantum Networks",
-    authors: "R. Iqbal, Muhammad Tahir Naseem, and F. Ali",
-    journal: "New Journal of Physics",
-    year: 2025,
-    doi: "https://doi.org/",
-    arxiv: "",
-    category: "Quantum thermal diodes and rectification"
-  },
-  {
-    title: "Fisher Information Bounds for Quantum Thermometry",
-    authors: "Muhammad Tahir Naseem and H. Qureshi",
-    journal: "Quantum Science and Technology",
+    title: "Macroscopic distant magnon-mode entanglement via a squeezed drive",
+    authors: "Kamran Ullah, M. Tahir Naseem, and Ozgur E. Mustecaplioglu",
+    journal: "Phys. Rev. A 110, 063715",
     year: 2024,
-    doi: "https://doi.org/",
-    arxiv: "https://arxiv.org/",
+    doi: "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.063715",
+    arxiv: "",
+    category: "Quantum optics and hybrid systems"
+  },
+  {
+    title: "Mixing thermal coherent states for precision and range enhancement in quantum thermometry",
+    authors: "Asghar Ullah, M. Tahir Naseem, and Ozgur E. Mustecaplioglu",
+    journal: "Quantum Sci. Technol. 10, 015044",
+    year: 2024,
+    doi: "https://iopscience.iop.org/article/10.1088/2058-9565/ad994a/meta",
+    arxiv: "",
     category: "Quantum thermometry and Fisher information"
   },
   {
-    title: "Reservoir Engineering of Mechanical Cat States",
-    authors: "S. Rehman, Muhammad Tahir Naseem, and P. Meystre",
-    journal: "Optics Communications",
-    year: 2024,
-    doi: "https://doi.org/",
+    title: "Enantiomer detection via quantum Otto cycle",
+    authors: "Mohsen Izadyari, M. Tahir Naseem, and Ozgur E. Mustecaplioglu",
+    journal: "Phys. Rev. E 107, L042103",
+    year: 2023,
+    doi: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.L042103",
     arxiv: "",
-    category: "Reservoir-engineered mechanical cat states"
+    category: "Quantum thermal devices"
   },
   {
-    title: "Master Equation Methods for Structured Quantum Reservoirs",
-    authors: "Muhammad Tahir Naseem, N. Farooq, and T. Hasan",
-    journal: "Annals of Physics",
+    title: "Low-temperature quantum thermometry boosted by coherence generation",
+    authors: "Asghar Ullah, M. Tahir Naseem, and Ozgur E. Mustecaplioglu",
+    journal: "Phys. Rev. Research 5, 043184",
     year: 2023,
-    doi: "https://doi.org/",
-    arxiv: "https://arxiv.org/",
-    category: "Open quantum systems and master equations"
+    doi: "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043184",
+    arxiv: "",
+    category: "Quantum thermometry and Fisher information"
   },
   {
-    title: "Quantum Heat Diodes Based on Engineered System-Bath Couplings",
-    authors: "Muhammad Tahir Naseem and M. Siddiqui",
-    journal: "Physica Scripta",
-    year: 2023,
-    doi: "https://doi.org/",
-    arxiv: "https://arxiv.org/",
-    category: "Quantum thermal diodes and rectification"
-  },
-  {
-    title: "Temperature Estimation with Dissipative Quantum Probes",
-    authors: "A. Raza and Muhammad Tahir Naseem",
-    journal: "International Journal of Quantum Information",
+    title: "Engineering entanglement between resonators by hot environment",
+    authors: "M. Tahir Naseem and Ozgur E. Mustecaplioglu",
+    journal: "Quantum Sci. Technol. 7, 045012",
     year: 2022,
-    doi: "https://doi.org/",
+    doi: "https://iopscience.iop.org/article/10.1088/2058-9565/ac7f50",
     arxiv: "",
-    category: "Quantum thermometry and Fisher information"
+    category: "Open quantum systems and reservoir engineering"
+  },
+  {
+    title: "Antibunching via cooling by heating",
+    authors: "M. Tahir Naseem and Ozgur E. Mustecaplioglu",
+    journal: "Phys. Rev. A 105, 012201",
+    year: 2022,
+    doi: "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.012201",
+    arxiv: "",
+    category: "Quantum thermodynamics and heat transport"
+  },
+  {
+    title: "Ground-state cooling of mechanical resonators by quantum reservoir engineering",
+    authors: "M. Tahir Naseem and Ozgur E. Mustecaplioglu",
+    journal: "Communications Physics 4, 95",
+    year: 2021,
+    doi: "https://www.nature.com/articles/s42005-021-00599-z",
+    arxiv: "",
+    category: "Open quantum systems and reservoir engineering"
+  },
+  {
+    title: "All optical control of magnetization in quantum confined ultrathin magnetic metals",
+    authors: "S. M. Zanjani, M. Tahir Naseem, Ozgur E. Mustecaplioglu, and M. C. Onbasli",
+    journal: "Scientific Reports 11, 15976",
+    year: 2021,
+    doi: "https://www.nature.com/articles/s41598-021-95319-6",
+    arxiv: "",
+    category: "Quantum optics and hybrid systems"
+  },
+  {
+    title: "Heat rectification by two qubits coupled with Dzyaloshinskii-Moriya interaction",
+    authors: "V. Upadhyay, M. Tahir Naseem, R. Marathe, and Ozgur E. Mustecaplioglu",
+    journal: "Phys. Rev. E 104, 054137",
+    year: 2021,
+    doi: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054137",
+    arxiv: "",
+    category: "Quantum thermal diodes and rectification"
+  },
+  {
+    title: "Two-body quantum absorption refrigerators with optomechanical-like interactions",
+    authors: "M. Tahir Naseem, A. Misra, and Ozgur E. Mustecaplioglu",
+    journal: "Quantum Sci. Technol. 5, 035006",
+    year: 2020,
+    doi: "https://iopscience.iop.org/article/10.1088/2058-9565/ab8d89/meta",
+    arxiv: "",
+    category: "Quantum thermal devices"
+  },
+  {
+    title: "Minimal quantum heat manager boosted by bath spectral filtering",
+    authors: "M. Tahir Naseem, A. Misra, Ozgur E. Mustecaplioglu, and G. Kurizki",
+    journal: "Phys. Rev. Research 2, 033285",
+    year: 2020,
+    doi: "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033285",
+    arxiv: "",
+    category: "Quantum thermodynamics and heat transport"
+  },
+  {
+    title: "Tunable multiwindow magnomechanically induced transparency, Fano resonances, and slow-to-fast light conversion",
+    authors: "K. Ullah, M. Tahir Naseem, and Ozgur E. Mustecaplioglu",
+    journal: "Phys. Rev. A 102, 033721",
+    year: 2020,
+    doi: "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.033721",
+    arxiv: "",
+    category: "Quantum optics and hybrid systems"
+  },
+  {
+    title: "Quantum heat engine with a quadratically coupled optomechanical system",
+    authors: "M. Tahir Naseem and Ozgur E. Mustecaplioglu",
+    journal: "J. Opt. Soc. Am. B 36, 3000",
+    year: 2019,
+    doi: "https://opg.optica.org/josab/fulltext.cfm?uri=josab-36-11-3000&id=422090",
+    arxiv: "",
+    category: "Quantum thermal devices"
+  },
+  {
+    title: "Quantum optical two-atom thermal diode",
+    authors: "C. Kargi, M. Tahir Naseem, T. Optarny, Ozgur E. Mustecaplioglu, and G. Kurizki",
+    journal: "Phys. Rev. E 99, 042121",
+    year: 2019,
+    doi: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.042121",
+    arxiv: "",
+    category: "Quantum thermal diodes and rectification"
+  },
+  {
+    title: "Thermodynamic consistency of the optomechanical master equation",
+    authors: "M. Tahir Naseem, A. Xuereb, and Ozgur E. Mustecaplioglu",
+    journal: "Phys. Rev. A 98, 052123",
+    year: 2018,
+    doi: "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.052123",
+    arxiv: "",
+    category: "Open quantum systems and master equations"
   }
 ];
 
@@ -132,7 +231,8 @@ const publications = [
     const links = document.createElement("div");
     links.className = "pub-links";
     if (publication.doi) {
-      links.appendChild(createLink(publication.doi, "DOI"));
+      const linkLabel = publication.doi.includes("doi.org") ? "DOI" : "Article";
+      links.appendChild(createLink(publication.doi, linkLabel));
     }
     if (publication.arxiv) {
       links.appendChild(createLink(publication.arxiv, "arXiv"));

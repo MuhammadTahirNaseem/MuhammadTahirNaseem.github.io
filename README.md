@@ -1,6 +1,6 @@
-# Dr. Muhammad Tahir Naseem Academic Website
+# QuTIC Lab Website
 
-Static academic personal website for **Dr. Muhammad Tahir Naseem**, Faculty of Basic Sciences, GIK Institute of Engineering Sciences and Technology.
+Static academic research group website for **QuTIC Lab: Quantum Thermodynamics, Information, and Computing Lab**, led by **Dr. Muhammad Tahir Naseem** at the Faculty of Basic Sciences, GIK Institute of Engineering Sciences and Technology.
 
 Repository: `MuhammadTahirNaseem.github.io`
 
@@ -13,9 +13,9 @@ This website uses only HTML, CSS, and vanilla JavaScript. It does not require PH
 |-- index.html
 |-- research.html
 |-- publications.html
-|-- teaching.html
 |-- projects.html
 |-- students.html
+|-- teaching.html
 |-- cv.html
 |-- contact.html
 |-- assets/
@@ -40,9 +40,12 @@ This website uses only HTML, CSS, and vanilla JavaScript. It does not require PH
 - Edit page text directly in the relevant `.html` file.
 - Edit layout, colors, spacing, and responsive design in `assets/css/styles.css`.
 - Edit publication data in `assets/js/publications.js`.
-- Replace the CV by uploading the final PDF as `assets/files/cv.pdf`.
+- Replace the CV by uploading the final compiled PDF as `assets/files/cv.pdf`.
 - Add images to `assets/img/` and reference them with relative paths, for example `assets/img/example.png`.
 - Update academic profile links in `contact.html`.
+- `students.html` is displayed as the **Team** page in the navigation.
+- `cv.html` is displayed as the **PI** page in the navigation.
+- The PI page and publication list are populated from Dr. Naseem's CV; update both when the CV changes.
 
 ## Local Preview
 
@@ -66,5 +69,5 @@ Open `index.html` directly in a browser. The site does not need a local server b
 - CSS is loaded from `assets/css/styles.css`.
 - JavaScript is loaded from `assets/js/`.
 - Images are loaded from `assets/img/`.
-- The CV button links to `assets/files/cv.pdf`.
+- The PI page CV button links to `assets/files/cv.pdf`; replace this file with the current compiled CV PDF before publishing.
 - No backend, database, build step, or paid service is required.
